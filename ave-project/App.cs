@@ -14,6 +14,7 @@ namespace ave_project
             IFixture fix = new FixtureReflect(typeof(Student));
             Student s1 = (Student)fix.New();
             Student s2 = (Student)fix.New();
+            //ola
         }
     }
 }
